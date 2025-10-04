@@ -1,0 +1,11 @@
+Model,Dataset,Description,MAE,RMSE,MAPE
+LSTM,MinMax,Best (Baseline),50.1038,99.0121,1.63
+LSTM,MinMax,Tuning Optuna Timestep 7,117.9489,,
+LSTM,MinMax,Tuning Optuna Timestep 14,225.9885,,
+RandomForest,Raw,After Tuning (Val),348.0022,406.5476,1.88
+RandomForest,Raw,Before Tuning (Val),382.4391,452.5861,2.07
+KNN,MinMax,-,875.6894,913.1047,4.98
+RandomForest,Raw,After Tuning (Test),1411.0428,1494.4649,8.04
+RandomForest,Raw,Before Tuning (Test),1449.0005,1527.0147,8.26
+DecisionTree,Raw,-,1497.1567,1583.9763,8.53
+Linear Regression,StandardScaler,-,3378.487,3449.0908,19.21
