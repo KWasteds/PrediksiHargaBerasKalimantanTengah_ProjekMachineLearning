@@ -1,0 +1,21 @@
+abstract: '<ul>
+
+  <li></li>
+
+  </ul>'
+authors:
+- family-names: Kelvin Jonathan Setiawan
+cff-version: 1.2.0
+date-released: '2026-04-13'
+doi: 10.5281/zenodo.19548670
+identifiers:
+- type: swh
+  value: swh:1:dir:25f1eb1cbf743ddd72f15477d421ed97bbdd355c;origin=https://doi.org/10.5281/zenodo.19548669;visit=swh:1:snp:2faf360bf8bcfbe7667ee9ad7ad866fbb7966ddf;anchor=swh:1:rel:e985f05c3dae94d2b876821a993ab00f11981664;path=KWasteds-PrediksiHargaBerasKalimantanTengah_ProjekMachineLearning-9fbd7f6
+license:
+- cc-by-4.0
+message: If you use this software, please cite it using the metadata from this file.
+repository-code: https://github.com/KWasteds/PrediksiHargaBerasKalimantanTengah_ProjekMachineLearning/tree/0.1.0
+title: 'KWasteds/PrediksiHargaBerasKalimantanTengah_ProjekMachineLearning: Initial
+  Release'
+type: software
+version: 0.1.0
